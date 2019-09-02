@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType03", "DataType03\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType04", "DataType04\DataType04.csproj", "{DA364E5F-0902-474A-844F-B55B6F874F87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeTest", "DataTypeTest\DataTypeTest.csproj", "{C0EDDA25-8A55-4E25-BFD8-9D6C657ADF32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{DA364E5F-0902-474A-844F-B55B6F874F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA364E5F-0902-474A-844F-B55B6F874F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA364E5F-0902-474A-844F-B55B6F874F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EDDA25-8A55-4E25-BFD8-9D6C657ADF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EDDA25-8A55-4E25-BFD8-9D6C657ADF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EDDA25-8A55-4E25-BFD8-9D6C657ADF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EDDA25-8A55-4E25-BFD8-9D6C657ADF32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

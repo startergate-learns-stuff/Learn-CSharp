@@ -32,7 +32,7 @@ namespace DataType04
       Console.WriteLine("요일을 숫자(일: 0, 월: 1)로 입력하시오.");
       string input = Console.ReadLine();
 
-      switch (Enum.Parse(days, input))
+      switch ((Day) int.Parse(input))
       {
         case Day.Sun:
           Console.WriteLine("Sunday");
