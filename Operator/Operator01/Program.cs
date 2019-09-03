@@ -41,6 +41,12 @@ namespace Operator01
       Console.WriteLine(arr?.Count);
       Console.WriteLine(arr?[0]);
       Console.WriteLine(arr?[1]);
+
+      int? a = null;
+      Console.WriteLine($"{a ?? 0}");
+
+      a = 100;
+      Console.WriteLine($"{a ?? 0}");
     }
   }
 }
