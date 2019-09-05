@@ -36,6 +36,7 @@ namespace Class05_AccessModifier
       B b = new B();
       Console.WriteLine(b.GetValue3());
 
+      // A.C c = new A.C();
       var c = new A.C();
       Console.WriteLine(c.GetValue2());
     }
