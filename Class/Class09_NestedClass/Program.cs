@@ -56,13 +56,13 @@ namespace Class09_NestedClass
     public static void Main(string[] args)
     {
       Configuration config = new Configuration();
-      config.SetConfig("Version", "V 5.0");
+      config.SetConfig("Version", "V 1.0");
       config.SetConfig("Size", "655,324 KB");
       
-      Console.WriteLine(config.GetConfig("Version"));
-      Console.WriteLine(config.GetConfig("Size"));
+      Console.WriteLine(config.GetConfig("Version")); // "V 1.0"
+      Console.WriteLine(config.GetConfig("Price"));
       
-      config.SetConfig("Version", "V 5.0.1");
+      config.SetConfig("Version", "V 2.0");
       Console.WriteLine(config.GetConfig("Version"));
     }
   }
