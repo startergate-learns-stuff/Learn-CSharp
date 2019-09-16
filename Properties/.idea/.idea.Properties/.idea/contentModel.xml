@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lenovo\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lenovo\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Properties.1776503116.00" t="ExcludeRecursive" />
+    <e p="D:\CodingData\Learn-CSharp\Properties" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties.sln" t="IncludeFlat" />
+      <e p="Properties01" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Properties01.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Properties02" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Properties02.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Properties03" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Properties03.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Properties04" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Properties04.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
