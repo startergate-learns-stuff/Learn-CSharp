@@ -11,7 +11,13 @@ namespace Properties04
       Console.WriteLine($"{a.Name}, {a.Age}");
 
       var b = new {Subject = "수학", Score = new int[] {90, 80, 70, 60}};
-      Console.WriteLine($"{b.Subject}");
+      Console.Write($"{b.Subject} ");
+
+      foreach (var sc in b.Score)
+      {
+        Console.Write($"{sc} ");
+      }
+      Console.WriteLine();
     }
   }
 }
