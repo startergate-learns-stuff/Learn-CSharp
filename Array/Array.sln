@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array01", "Array01\Array01.csproj", "{7F3E3BC9-3562-4B75-B4BD-C4A739EAECDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array02", "Array02\Array02.csproj", "{BD0E1860-7BB5-4A01-8A3C-A2359EBCE497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3E3BC9-3562-4B75-B4BD-C4A739EAECDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3E3BC9-3562-4B75-B4BD-C4A739EAECDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3E3BC9-3562-4B75-B4BD-C4A739EAECDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3E3BC9-3562-4B75-B4BD-C4A739EAECDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0E1860-7BB5-4A01-8A3C-A2359EBCE497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0E1860-7BB5-4A01-8A3C-A2359EBCE497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0E1860-7BB5-4A01-8A3C-A2359EBCE497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0E1860-7BB5-4A01-8A3C-A2359EBCE497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
