@@ -36,7 +36,7 @@ namespace GenericConstraint
       Array = new U[size];
     }
 
-    public void CopyArray<T>(T[] source) where T : U
+    public void CopyArray<T>(T[] source) where T : U // T는 U로부터 상속받은 클래스여야 함
     {
       source.CopyTo(Array, 0);
     }
@@ -55,13 +55,30 @@ namespace GenericConstraint
       
       // StructArray<RefArray<int>> b = new StructArray<RefArray<int>>(3);
       
-      RefArray<StructArray<int>> d = new RefArray<StructArray<int>>(3);
-      d.Array[0] = new StructArray<int>(3);
-      d.Array[1] = new StructArray<int>(6);
-      d.Array[2] = new StructArray<int>(9);
+      RefArray<StructArray<int>> b = new RefArray<StructArray<int>>(3);
+      b.Array[0] = new StructArray<int>(3);
+      b.Array[1] = new StructArray<int>(6);
+      b.Array[2] = new StructArray<int>(9);
       
       // RefArray<int> c = new RefArray<int>(3);
       #endregion
+      
+      BaseArray<Base> c = new BaseArray<Base>(3);
+      c.Array[0] = new Base();
+      c.Array[1] = new Derived();
+      c.Array[2] = CreateInstance<Base>();
+      
+      BaseArray<Derived> d = new BaseArray<Derived>(2);
+      d.Array[0] = new Derived();
+      d.Array[1] = CreateInstance<Derived>();
+
+      BaseArray<Derived> e = new BaseArray<Derived>(2);
+      e.CopyArray<Derived>(d.Array);
+    }
+
+    public static T CreateInstance<T>() where T : new() // 기본 생성자가 있어야 함
+    {
+      return new T();
     }
   }
 }

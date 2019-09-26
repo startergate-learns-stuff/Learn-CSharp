@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass02", "GenericCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericConstraint", "GenericConstraint\GenericConstraint.csproj", "{FB15A27A-9BBE-4CE5-B58E-13F699194EBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericConstraint02", "GenericConstraint02\GenericConstraint02.csproj", "{A4214FCE-25D4-4DE4-B721-3111DFF65CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericHandlingTest01", "GenericHandlingTest01\GenericHandlingTest01.csproj", "{CF06141D-1C66-4BD4-926D-CF515418FEA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{FB15A27A-9BBE-4CE5-B58E-13F699194EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB15A27A-9BBE-4CE5-B58E-13F699194EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB15A27A-9BBE-4CE5-B58E-13F699194EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4214FCE-25D4-4DE4-B721-3111DFF65CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4214FCE-25D4-4DE4-B721-3111DFF65CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4214FCE-25D4-4DE4-B721-3111DFF65CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4214FCE-25D4-4DE4-B721-3111DFF65CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF06141D-1C66-4BD4-926D-CF515418FEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF06141D-1C66-4BD4-926D-CF515418FEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF06141D-1C66-4BD4-926D-CF515418FEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF06141D-1C66-4BD4-926D-CF515418FEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
