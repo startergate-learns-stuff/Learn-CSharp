@@ -51,7 +51,7 @@ namespace Delegate09_AnonymousMethod
       int[] array2 = {25, 23, 12, 9, 7};
       Console.WriteLine("초기 상태: ");
       PrintArray(array2);
-      BubbleSort(array2, delegate (int a, int b)
+      BubbleSort(array2, (a, b) =>
       {
         if (a < b)
           return 1;
