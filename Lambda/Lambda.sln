@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda01", "Lambda01\Lambda01.csproj", "{B4B2D4D5-CE35-4F2C-9C08-BFB11B000FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda02_FuncAction", "Lambda02_FuncAction\Lambda02_FuncAction.csproj", "{BADA73DE-FD07-4193-A893-01ACD35C03C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda03_ExpressionMember", "Lambda03_ExpressionMember\Lambda03_ExpressionMember.csproj", "{F511DB52-7A96-47B7-B0CD-7037F9E0D5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B2D4D5-CE35-4F2C-9C08-BFB11B000FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B2D4D5-CE35-4F2C-9C08-BFB11B000FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B2D4D5-CE35-4F2C-9C08-BFB11B000FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B2D4D5-CE35-4F2C-9C08-BFB11B000FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADA73DE-FD07-4193-A893-01ACD35C03C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADA73DE-FD07-4193-A893-01ACD35C03C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADA73DE-FD07-4193-A893-01ACD35C03C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADA73DE-FD07-4193-A893-01ACD35C03C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F511DB52-7A96-47B7-B0CD-7037F9E0D5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F511DB52-7A96-47B7-B0CD-7037F9E0D5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F511DB52-7A96-47B7-B0CD-7037F9E0D5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F511DB52-7A96-47B7-B0CD-7037F9E0D5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

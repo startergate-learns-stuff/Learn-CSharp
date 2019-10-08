@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event02_Delegate", "Event02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event03_Event", "Event03_Event\Event03_Event.csproj", "{0A251C72-ED22-4FDB-BF8B-99127FE1DEED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B8DD09B7-7375-48D1-83D7-2647E4F5854C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{0A251C72-ED22-4FDB-BF8B-99127FE1DEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A251C72-ED22-4FDB-BF8B-99127FE1DEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A251C72-ED22-4FDB-BF8B-99127FE1DEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DD09B7-7375-48D1-83D7-2647E4F5854C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DD09B7-7375-48D1-83D7-2647E4F5854C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DD09B7-7375-48D1-83D7-2647E4F5854C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DD09B7-7375-48D1-83D7-2647E4F5854C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
