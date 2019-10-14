@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b303de1e-e6a8-49f5-8974-6a6df175cc3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Delegate/Delegate.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Delegate/Delegate.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lambda/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,20 +144,23 @@
       <option name="presentableId" value="Default" />
       <updated>1570514637944</updated>
       <workItem from="1570514639167" duration="4591000" />
+      <workItem from="1571017631324" duration="274000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
