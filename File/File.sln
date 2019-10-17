@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File01", "File01\File01.csproj", "{EB6AB5A9-D775-4801-86C8-D3D8452677FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File02", "File02\File02.csproj", "{1C329815-658A-4810-A5CD-6EAFB956C121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File03_Serialization", "File03_Serialization\File03_Serialization.csproj", "{B8EAD671-36FA-441E-A156-037AD9634BD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{EB6AB5A9-D775-4801-86C8-D3D8452677FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB6AB5A9-D775-4801-86C8-D3D8452677FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB6AB5A9-D775-4801-86C8-D3D8452677FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C329815-658A-4810-A5CD-6EAFB956C121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C329815-658A-4810-A5CD-6EAFB956C121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C329815-658A-4810-A5CD-6EAFB956C121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C329815-658A-4810-A5CD-6EAFB956C121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EAD671-36FA-441E-A156-037AD9634BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EAD671-36FA-441E-A156-037AD9634BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EAD671-36FA-441E-A156-037AD9634BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EAD671-36FA-441E-A156-037AD9634BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
