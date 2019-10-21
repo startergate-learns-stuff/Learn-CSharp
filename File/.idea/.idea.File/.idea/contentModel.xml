@@ -41,6 +41,54 @@
         </e>
         <e p="Program.cs" t="Include" />
       </e>
+      <e p="File04_StreamWriter" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="File04_StreamWriter.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="File04_StreamWriter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="File05_Using" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="File05_Using.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="File05_Using.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="File06_Serialization" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="File06_Serialization.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="File06_Serialization.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="File07_SerializationCollection" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="File07_SerializationCollection.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="File07_SerializationCollection.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
