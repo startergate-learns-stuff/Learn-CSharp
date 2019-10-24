@@ -24,7 +24,7 @@ namespace Thread01
       Thread t = new Thread(ThreadFunc);
       // t.IsBackground = true; // 메인이 끝나면 종료됨
       t.Start();
-      t.Join(); // 스레드가 완료될 때까지 대기
+      t.Join(); // 스레드가 완료될 때까지 다른 스레드들은 대기
       
       Console.WriteLine("하아하아 죽여버렸어");
     }
