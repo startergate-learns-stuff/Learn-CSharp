@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff0099b3-0a32-4232-b00a-2fe60e5c2df7" name="Default Changelist" comment="">
@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/WinForm04_MessageBox/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WinForm08_TextBox/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WinForm08_TextBox/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinForm09_ListView/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WinForm07_ProgressBar/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WinForm01_CommandLine/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WinForm06_Timer/Form1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -47,6 +48,7 @@
         <option value="$PROJECT_DIR$/WinForm07_ProgressBar/Form1.cs" />
         <option value="$PROJECT_DIR$/WinForm08_TextBox/Form1.Designer.cs" />
         <option value="$PROJECT_DIR$/WinForm08_TextBox/Form1.cs" />
+        <option value="$PROJECT_DIR$/WinForm09_ListView/Form1.cs" />
       </list>
     </option>
   </component>
@@ -206,6 +208,7 @@
       <updated>1572500391089</updated>
       <workItem from="1572500393887" duration="5860000" />
       <workItem from="1572832086216" duration="7665000" />
+      <workItem from="1572931016108" duration="229000" />
     </task>
     <servers />
   </component>

@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm07_ProgressBar", "Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm08_TextBox", "WinForm08_TextBox\WinForm08_TextBox.csproj", "{80B44050-66E7-4899-B1BC-92862C412131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm09_ListView", "WinForm09_ListView\WinForm09_ListView.csproj", "{22177154-71C4-4348-91ED-DDB2F6A57964}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{80B44050-66E7-4899-B1BC-92862C412131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80B44050-66E7-4899-B1BC-92862C412131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80B44050-66E7-4899-B1BC-92862C412131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22177154-71C4-4348-91ED-DDB2F6A57964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22177154-71C4-4348-91ED-DDB2F6A57964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22177154-71C4-4348-91ED-DDB2F6A57964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22177154-71C4-4348-91ED-DDB2F6A57964}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
