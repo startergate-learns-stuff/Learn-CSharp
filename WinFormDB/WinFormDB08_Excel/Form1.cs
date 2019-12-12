@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
@@ -373,7 +367,7 @@ namespace WinFormDB08_Excel
             Excel.Application eApp; // 엑셀 프로그램
             Excel.Workbook eWorkbook; // 엑셀 시트를 여러개 포함하는 단위
             Excel.Worksheet eWorkSheet; // 엑셀 워크시트
-            
+
             eApp = new Excel.ApplicationClass();
             eWorkbook = eApp.Workbooks.Add(); // eApp에 워크북 추가
             eWorkSheet = eWorkbook.Sheets[1]; // 엑셀 워크시트는 index가 1부터 시작
